@@ -1,1 +1,1 @@
-# RSS--MAP
+# RSSi-MAP
